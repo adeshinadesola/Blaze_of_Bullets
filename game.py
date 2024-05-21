@@ -54,7 +54,7 @@ grenade_fx = pygame.mixer.Sound('grenade.wav')
 grenade_fx.set_volume(1.05)
 
 
-#load images
+#load images this game here
 #button images
 start_img = pygame.image.load('start_btn.png').convert_alpha()
 exit_img = pygame.image.load('exit_btn.png').convert_alpha()
