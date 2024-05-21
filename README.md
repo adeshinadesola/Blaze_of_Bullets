@@ -6,6 +6,11 @@ Blaze of Bullets is an exhilarating 2D shooting game where players must survive 
 - **Endless Waves:** Battle against an ever-increasing number of enemies.
 - **Score Tracking:** Keep track of your high scores and try to beat them.
 - **Simple Graphics:** Clean and straightforward visuals to keep the focus on the action.
+### Activate the virtual environment:
+source .venv/bin/activate (for macOS)
+.venv\Scripts\activate (for Windows)
+
+run python game.py
 
 ![image](https://user-images.githubusercontent.com/93534905/232225831-e885ccc6-c556-4cbc-9e08-73b48187883b.png)
 This is the preview of the starting window.
